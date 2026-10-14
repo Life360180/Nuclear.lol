@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/u/aurora",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "aurora — Nuclear",
+      "hasCanvas": true,
+      "bodyTextLen": 29,
+      "bodyTextHash": "747504c709689f4e178376dd378f7b4d4b5d30ecc905584d7480b1627d30fb4d",
+      "bodyTextPrefix": "aurora CLICK TO ENTER Nuclear",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/aurora.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "aurora — Nuclear",
+      "hasCanvas": true,
+      "bodyTextLen": 29,
+      "bodyTextHash": "747504c709689f4e178376dd378f7b4d4b5d30ecc905584d7480b1627d30fb4d",
+      "bodyTextPrefix": "aurora CLICK TO ENTER Nuclear",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/aurora-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/aurora.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Nuclear",
+      "hasCanvas": false,
+      "bodyTextLen": 650,
+      "bodyTextHash": "57e432ed78f8b20127217d71a98017b1909cda322d5a2c3b5ad052426306d9d9",
+      "bodyTextPrefix": "Nuclear Explore Sign in LINK IN BIO, ACTUALLY DESIGNED A page th",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/red-home.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Nuclear",
+      "hasCanvas": false,
+      "bodyTextLen": 650,
+      "bodyTextHash": "57e432ed78f8b20127217d71a98017b1909cda322d5a2c3b5ad052426306d9d9",
+      "bodyTextPrefix": "Nuclear Explore Sign in LINK IN BIO, ACTUALLY DESIGNED A page th",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/red-home-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/red-home.json"
+}

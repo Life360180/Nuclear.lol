@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/explore",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NOX",
+      "hasCanvas": false,
+      "bodyTextLen": 177,
+      "bodyTextHash": "99fa9b334fa00b0a8f406b13416fc7149d61af21897c5be263996b91922ab9f5",
+      "bodyTextPrefix": "NOX Explore Sign in Explore Public pages, ranked by views. AU au",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/explore.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NOX",
+      "hasCanvas": false,
+      "bodyTextLen": 177,
+      "bodyTextHash": "99fa9b334fa00b0a8f406b13416fc7149d61af21897c5be263996b91922ab9f5",
+      "bodyTextPrefix": "NOX Explore Sign in Explore Public pages, ranked by views. AU au",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/explore-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/explore.json"
+}

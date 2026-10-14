@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/explore",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Nuclear",
+      "hasCanvas": false,
+      "bodyTextLen": 184,
+      "bodyTextHash": "bee101de0e36cfb911d668a4745f9106f04ae8cdf57347479c300b2d490bc46a",
+      "bodyTextPrefix": "Nuclear Explore Sign in Explore Every page on Nuclear. Open one,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/empty-explore.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Nuclear",
+      "hasCanvas": false,
+      "bodyTextLen": 184,
+      "bodyTextHash": "bee101de0e36cfb911d668a4745f9106f04ae8cdf57347479c300b2d490bc46a",
+      "bodyTextPrefix": "Nuclear Explore Sign in Explore Every page on Nuclear. Open one,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/empty-explore-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/empty-explore.json"
+}

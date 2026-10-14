@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Nuclear",
+      "hasCanvas": false,
+      "bodyTextLen": 650,
+      "bodyTextHash": "eade1dc551c80e9787cb7a52ae883535f6cd7ff6dbcbab900602acdac04dfea4",
+      "bodyTextPrefix": "Nuclear Explore LINK IN BIO, ACTUALLY DESIGNED A page that's act",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/empty-home.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Nuclear",
+      "hasCanvas": false,
+      "bodyTextLen": 658,
+      "bodyTextHash": "bd2260f3bfdd6000767f785b0d52e3d80d8df52f160c8bb056a9a52bb69d9e49",
+      "bodyTextPrefix": "Nuclear Explore Sign in LINK IN BIO, ACTUALLY DESIGNED A page th",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/empty-home-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/empty-home.json"
+}
